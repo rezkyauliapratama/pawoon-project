@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pawoon-project-todolist</string>
+    <string name="todo_list">TODO LIST</string>
+    <string name="todo">TODO</string>
+</resources>
